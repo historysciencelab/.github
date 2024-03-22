@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We're starting an org called History Science Lab together, as a collaboration between the history and programming communities.
+Crisis History is a collaborative effort between the history and programming communities.
 
 <!--
 
